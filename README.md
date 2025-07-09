@@ -6,7 +6,9 @@ Overview
 Welcome to the official repository for my doctoral research, which investigates how emotional content in language—specifically, emotional words presented just outside the central focus of vision (the parafovea)—influences reading and cognitive processing across the adult lifespan.
 
 Project Summary:
-This work explores the remarkable ability of the visual system to detect and process emotional words before we consciously fixate on them. Using the gaze-contingent boundary paradigm (Rayner, 1975), I manipulated the emotional valence (positive, negative, neutral) of words presented parafoveally during sentence reading. This paradigm allowed for seamless, covert changes to words as readers’ eyes crossed invisible boundaries, ensuring participants were unaware of the manipulation. The big question: Do emotional words grab your attention and help you read faster—even before you consciously see them?
+This work explores the remarkable ability of the visual system to detect and process emotional words before we consciously fixate on them. Using the gaze-contingent boundary paradigm (Rayner, 1975), I manipulated the emotional valence (positive, negative, neutral) of words presented parafoveally during sentence reading. This paradigm allowed for seamless, covert changes to words as readers’ eyes crossed an invisible boundary drawn just after a target word (word we measured eye movement reading times on). We used a v fancy SR Research Eyelink eye tracker which I carefully calibrated /programmed / intensely checked and re-checked to ensuring participants were unaware of the manipulation. 
+
+The two big questiond we asked in this study: (1) Do emotional words grab your attention and help you read faster—even before you consciously see them? (2) Does our age-related perspective in life impact which words (i.e., positive or negative) we pay most atteniton to?
 
 What Did I Find?:
 Emotional Preview Benefit: Emotional words in the parafovea consistently drew attention and facilitated faster reading of subsequent words, even when the previewed word did not match the target word—a phenomenon known as the semantic preview effect. Previous studies had not attributed this effect to emotional valence under such rigorous, naturalistic conditions.
@@ -26,6 +28,9 @@ First time anyone’s shown both emotional preview effects and an age-related po
 
 Why Here?
 This repository serves as the official, transparent record of my dissertation research. All data, code, and materials are shared here to ensure proper attribution and to support open, reproducible science.
+
+Note on Individual Differences (aka the data I collected for this study but am not sharing quite yet...)
+While this repository focuses on the main findings regarding age-related effects in emotional parafoveal preview, there was also an individual differences component to this research. For clarity and focus, details on those analyses are not included here. I plan to share more about the individual differences findings, methods, and code in a follow-up repository soon.
 
 Repository Contents
 /data/: Raw and processed datasets from the dissertation experiments.

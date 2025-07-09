@@ -1,4 +1,4 @@
-EmotionalPreviewEffects
+
 Emotional Parafoveal Preview Effects: Positivity Effect in Reading & Cognitive Aging
 Dissertation Project Repository
 

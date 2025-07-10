@@ -3,7 +3,7 @@ Emotional Parafoveal Preview Effects: Positivity Effect in Reading & Cognitive A
 Dissertation Project Repository
 
 Overview
-Welcome to the official repository for my doctoral research, which investigates how emotional content in language—specifically, emotional words presented just outside the central focus of vision (the parafovea)—influences reading and cognitive processing across the adult lifespan.
+Welcome to the official repository for my doctoral research (currently being prepared for publication), which investigates how emotional content in language—specifically, emotional words presented just outside the central focus of vision (the parafovea)—influences reading and cognitive processing across the adult lifespan.
 
 Project Summary:
 This work explores the remarkable ability of the visual system to detect and process emotional words before we consciously fixate on them. Using the gaze-contingent boundary paradigm (Rayner, 1975), I manipulated the emotional valence (positive, negative, neutral) of words presented parafoveally during sentence reading. This paradigm allowed for seamless, covert changes to words as readers’ eyes crossed an invisible boundary drawn just after a target word (word we measured eye movement reading times on). We used a v fancy SR Research Eyelink eye tracker which I carefully calibrated /programmed / intensely checked and re-checked to ensuring participants were unaware of the manipulation. 

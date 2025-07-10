@@ -29,7 +29,7 @@ Emo_NegativeBaseline$condition<-relevel(Emo_NegativeBaseline$condition, ref = "N
 
 
 #Emo_UnrelatedBaseline<- 
-# read.csv(Emo_UnrelatedBaseline, "C:/Users/coyot/OneDrive/Desktop/Dissertation/EmoPrev/Cleaned Data/Emo_UnrelatedBaselineOA.csv",
+# read.csv(Emo_UnrelatedBaseline, "C:/filepath/Emo_UnrelatedBaselineOA.csv",
 # row.names = FALSE)
 
 Emo_UnrelatedBaseline$condition <- relevel(Emo_UnrelatedBaseline$condition, ref = "UnNeu/Neu") #<-Baseline reference

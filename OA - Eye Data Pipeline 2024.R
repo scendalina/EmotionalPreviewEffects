@@ -25,7 +25,7 @@ library(sjPlot)
 library(readr)
 
 
-OAdata <- read.csv("C:/Users/coyot/OneDrive/Desktop/Dissertation/EmoPrev/Raw Data/OA Raw Data Files/OA_31_final.csv", na = ".")
+OAdata <- # read.csv("filepath/OA_31_final.csv", na = ".")
 
 #make sure that condition is a factor!
 
